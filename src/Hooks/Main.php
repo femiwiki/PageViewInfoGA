@@ -4,6 +4,7 @@ namespace MediaWiki\Extension\PageViewInfoGA\Hooks;
 
 use Config;
 use Html;
+use MediaWiki\Extension\PageViewInfoGA\Constants;
 
 class Main implements
 	\MediaWiki\Hook\BeforePageDisplayHook
