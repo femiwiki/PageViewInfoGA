@@ -6,8 +6,7 @@ use Config;
 use Html;
 
 class Main implements
-	\MediaWiki\Hook\BeforePageDisplayHook,
-	\MediaWiki\Hook\MediaWikiServicesHook
+	\MediaWiki\Hook\BeforePageDisplayHook
 	{
 	/**
 	 * @var Config
