@@ -1,3 +1,7 @@
+# PageViewInfoGA is now hosted on Wikimedia Gerrit.
+
+https://gerrit.wikimedia.org/g/mediawiki/extensions/PageViewInfoGA
+
 # PageViewInfoGA [![Github checks status]][github checks link] [![codecov.io status]][codecov.io link]
 
 PageViewInfoGA is an extension that implements PageViewService for GoogleAnalytics.
